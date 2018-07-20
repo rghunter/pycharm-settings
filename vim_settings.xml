@@ -45,6 +45,9 @@
         <mark key="^" line="35" column="5" />
         <mark key="." line="35" column="5" />
       </file>
+      <file name="$USER_HOME$/PyCharm/dockerized-web-service/scripts/run_migration.sh" timestamp="1532126485798">
+        <mark key="[" line="1" column="38" />
+      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/files/private.py" timestamp="1531756073087">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="7" column="7" />
@@ -62,11 +65,6 @@
         <mark key="]" line="23" column="14" />
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="14" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/docs/pipeline_model.puml" timestamp="1532117542610">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/setup.py" timestamp="1532107728028">
         <mark key="[" line="21" column="11" />
@@ -186,6 +184,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/PyCharm/dockerized-web-service/cloudformation/template.yaml" timestamp="1532126442735">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/docs/build-flow.puml" timestamp="1532116544820">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="3" />
@@ -297,11 +301,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>test-web-service.yaml</text>
       </register>
       <register name="-" type="4">
-        <text>ubuntu:xenial</text>
+        <text>test-web-service.yaml</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
