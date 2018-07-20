@@ -48,6 +48,12 @@
       <file name="$USER_HOME$/PyCharm/dockerized-web-service/scripts/run_migration.sh" timestamp="1532126485798">
         <mark key="[" line="1" column="38" />
       </file>
+      <file name="$USER_HOME$/PyCharm/dockerized-web-service/testwebservice/app.py" timestamp="1532130168907">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/files/private.py" timestamp="1531756073087">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="7" column="7" />
@@ -59,6 +65,12 @@
         <mark key="]" line="3" column="21" />
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/dockerized-web-service/.gitignore" timestamp="1532130565140">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/steps/common.py" timestamp="1531241130366">
         <mark key="[" line="4" column="8" />
@@ -190,6 +202,12 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
+      <file name="$USER_HOME$/PyCharm/dockerized-web-service/scripts/run_service.sh" timestamp="1532130326396">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/docs/build-flow.puml" timestamp="1532116544820">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="3" />
@@ -301,8 +319,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test-web-service.yaml</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3BlbignL2V0Yy9jZW5zaW8vdGVzdC5jb25mJywgJ3InKSBhcyBmOgogICAgICAgIGNvbmZpZyA9IGYucmVhZCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>test-web-service.yaml</text>
@@ -314,22 +332,22 @@
         <text encoding="base64">ICAgIGRlZiBjcmVhdGUoY2xzLCBnbG9iYWxfdGFncywgZ2xvYmFsX3BhcmFtZXRlcnMsIGdsb2JhbF9hY2NvdW50LCBzdGFja19jb25maWcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignL2V0Yy9jZW5zaW8vdGVzdC5jb25mJywgJ3InKSBhcyBmOgogICAgICAgIGNvbmZpZyA9IGYucmVhZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCAteSBweXRob24tcGlwIGN1cmwgJiYgYXB0LWdldCBjbGVhbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyB0aGUgZG9ja2VyIGltYWdlCg==</text>
+        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCAteSBweXRob24tcGlwIGN1cmwgJiYgYXB0LWdldCBjbGVhbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBBbHdheXMgZW5kIHRoZSBhcHQtZ2V0IGxpbmUgd2l0aCBhcHQtZ2V0IGNsZWFuLiBUaGlzIHdheSwgdGhlIHJlcG8gY2FjaGUgZG9lcyBub3QgZ2V0IGJ1bmRsZWQgaW50bwo=</text>
+        <text encoding="base64">IyB0aGUgZG9ja2VyIGltYWdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBVYnVudHUgZG9lcyBub3QgY29tZSBwcmUgaW5zdGFsbGVkIHdpdGggcHl0aG9uIG9yIGN1cmwK</text>
+        <text encoding="base64">IyBBbHdheXMgZW5kIHRoZSBhcHQtZ2V0IGxpbmUgd2l0aCBhcHQtZ2V0IGNsZWFuLiBUaGlzIHdheSwgdGhlIHJlcG8gY2FjaGUgZG9lcyBub3QgZ2V0IGJ1bmRsZWQgaW50bwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBVYnVudHUgZG9lcyBub3QgY29tZSBwcmUgaW5zdGFsbGVkIHdpdGggcHl0aG9uIG9yIGN1cmwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -338,7 +356,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9vcHQvcHJvamVjdApXT1JLRElSIC9vcHQvcHJvamVjdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
