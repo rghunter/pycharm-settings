@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="">
+      <option name="address" value="490553117019.dkr.ecr.us-east-1.amazonaws.com" />
+      <option name="name" value="Truemotion Registry" />
+      <option name="username" value="" />
+    </DockerRegistry>
+  </component>
+</application>
