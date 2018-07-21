@@ -90,6 +90,12 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
       </file>
+      <file name="$USER_HOME$/PyCharm/dockerized-web-service/cloudformation/dockerized-web-service.yaml" timestamp="1532132306913">
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="67" column="42" />
+        <mark key="^" line="67" column="42" />
+        <mark key="." line="67" column="42" />
+      </file>
       <file name="/Python Console" timestamp="1532124551762">
         <mark key="[" line="0" column="0" />
       </file>
