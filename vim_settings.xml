@@ -78,6 +78,11 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="14" />
       </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/docs/pipeline_model.puml" timestamp="1532117542610">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/setup.py" timestamp="1532107728028">
         <mark key="[" line="21" column="11" />
         <mark key="]" line="21" column="11" />
@@ -189,6 +194,11 @@
         <mark key="]" line="28" column="57" />
         <mark key="." line="28" column="57" />
         <mark key="^" line="28" column="57" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/slack_client.py" timestamp="1532451924521">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/Jenkinsfile" timestamp="1531870243919">
         <mark key="[" line="32" column="20" />
@@ -326,7 +336,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbignL2V0Yy9jZW5zaW8vdGVzdC5jb25mJywgJ3InKSBhcyBmOgogICAgICAgIGNvbmZpZyA9IGYucmVhZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>test-web-service.yaml</text>
@@ -338,31 +348,31 @@
         <text encoding="base64">ICAgIGRlZiBjcmVhdGUoY2xzLCBnbG9iYWxfdGFncywgZ2xvYmFsX3BhcmFtZXRlcnMsIGdsb2JhbF9hY2NvdW50LCBzdGFja19jb25maWcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbignL2V0Yy9jZW5zaW8vdGVzdC5jb25mJywgJ3InKSBhcyBmOgogICAgICAgIGNvbmZpZyA9IGYucmVhZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzbGFja2NsaWVudCBpbXBvcnQgU2xhY2tDbGllbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCAteSBweXRob24tcGlwIGN1cmwgJiYgYXB0LWdldCBjbGVhbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyB0aGUgZG9ja2VyIGltYWdlCg==</text>
+        <text encoding="base64">CSAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBBbHdheXMgZW5kIHRoZSBhcHQtZ2V0IGxpbmUgd2l0aCBhcHQtZ2V0IGNsZWFuLiBUaGlzIHdheSwgdGhlIHJlcG8gY2FjaGUgZG9lcyBub3QgZ2V0IGJ1bmRsZWQgaW50bwo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzbGFja190b2tlbj1Ob25lKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBVYnVudHUgZG9lcyBub3QgY29tZSBwcmUgaW5zdGFsbGVkIHdpdGggcHl0aG9uIG9yIGN1cmwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjdGl2ZSA9IFRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGllbnQgPSBTbGFja0NsaWVudChzbGFja190b2tlbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFjdGl2ZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIk5vIHNsYWNrIGNyZWRlbnRpYWxzIHN1cHBsaWVkLCBzbGFjayBwbHVnaW4gd2lsbCBub3QgYmUgYWN0aXZlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
