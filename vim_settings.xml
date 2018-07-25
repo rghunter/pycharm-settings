@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1532124494919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1532547844053">
+      <file name="/Python Console" timestamp="1532548245692">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532014382043">
@@ -57,7 +57,7 @@
         <mark key="^" line="33" column="7" />
         <mark key="." line="33" column="7" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/__init__.py" timestamp="1532547746877">
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/__init__.py" timestamp="1532548201957">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
         <mark key="^" line="113" column="17" />
@@ -81,13 +81,13 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532547658197">
-        <mark key="[" line="128" column="34" />
-        <mark key="]" line="128" column="31" />
-        <mark key="." line="128" column="31" />
-        <mark key="^" line="128" column="31" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532548769204">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="21" column="11" />
+        <mark key="^" line="21" column="11" />
+        <mark key="." line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" timestamp="1532547814741">
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" timestamp="1532547992002">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="113" column="38" />
         <mark key="]" line="113" column="38" />
@@ -344,11 +344,11 @@
       <jump line="101" column="0" filename="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -357,31 +357,31 @@
         <text encoding="base64">ICAgIGRlZiBjcmVhdGUoY2xzLCBnbG9iYWxfdGFncywgZ2xvYmFsX3BhcmFtZXRlcnMsIGdsb2JhbF9hY2NvdW50LCBzdGFja19jb25maWcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRhY2htZW50ID0gTm90aWZpY2F0aW9uQXR0YWNobWVudC5mcm9tX25vdGlmaWNhdGlvbihuZXdfbWVzc2FnZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX2F0dHJpYnV0ZV9kaWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBkdW1wX2NvbmZpZyhzZWxmKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKipzZWxmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBkdW1wQ29uZmlnKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fYXR0cmlidXRlX2RpY3QgPSBrd2FyZ3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqKmt3YXJncyk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dD1zZWxmLnRleHQK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNobWVudHM9W2F0dGFjaG1lbnQgZm9yIGF0dGFjaG1lbnQgaW4gc2VsZi5hdHRhY2htZW50c10sCg==</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmeS5ub3RpZnkob3V0cHV0KQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
