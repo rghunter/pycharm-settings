@@ -75,12 +75,12 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532533546377">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532535095943">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="93" column="55" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" timestamp="1532144061758">
         <mark key="'" line="8" column="0" />
@@ -333,11 +333,11 @@
       <jump line="101" column="0" filename="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbnMgPSBhY3Rpb25zCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -346,31 +346,31 @@
         <text encoding="base64">ICAgIGRlZiBjcmVhdGUoY2xzLCBnbG9iYWxfdGFncywgZ2xvYmFsX3BhcmFtZXRlcnMsIGdsb2JhbF9hY2NvdW50LCBzdGFja19jb25maWcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gc3RhdHVzX2NvbG9yOiAoU2V2ZXJpdHkpIGBgZ29vZGBgLCBgYHdhcm5pbmdgYCwgYGBkYW5nZXJgYCwgb3IgYW55IGhleCBjb2xvciBjb2RlIChlZy4gYGAjNDM5RkUwYGApCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbnMgPSBhY3Rpb25zCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c19jb2xvciA9IHN0YXR1c19jb2xvcgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkcyA9IGZpZWxkcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYWN0aW9uczogKGxpc3Q8Tm90aWZpY2F0aW9uQWN0aW9uPikgYWN0aW9ucyB0byBhZGQgdG8gdGhlIG1lc3NhZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gZmllbGRzOiAobGlzdDxOb3RpZmljYXRpb25GaWVsZD4pIGZpZWxkcyB0byBhZGQgdG8gdGhlIG1lc3NhZ2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gc3RhdHVzX2NvbG9yOiAoU2V2ZXJpdHkpIGBgZ29vZGBgLCBgYHdhcm5pbmdgYCwgYGBkYW5nZXJgYCwgb3IgYW55IGhleCBjb2xvciBjb2RlIChlZy4gYGAjNDM5RkUwYGApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c19jb2xvciA9IHN0YXR1c19jb2xvcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdHRhY2htZW50cz1hdHRhY2htZW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
