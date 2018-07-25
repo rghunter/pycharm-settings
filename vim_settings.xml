@@ -78,11 +78,6 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/docs/pipeline_model.puml" timestamp="1532117542610">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/setup.py" timestamp="1532107728028">
         <mark key="[" line="21" column="11" />
         <mark key="]" line="21" column="11" />
@@ -195,10 +190,11 @@
         <mark key="." line="28" column="57" />
         <mark key="^" line="28" column="57" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/slack_client.py" timestamp="1532451924521">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/slack_client.py" timestamp="1532530048656">
+        <mark key="[" line="27" column="114" />
+        <mark key="]" line="30" column="7" />
+        <mark key="." line="30" column="7" />
+        <mark key="^" line="30" column="7" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/Jenkinsfile" timestamp="1531870243919">
         <mark key="[" line="32" column="20" />
