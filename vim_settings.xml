@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1532124494919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1532555033148">
+      <file name="/Python Console" timestamp="1532555573884">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532014382043">
@@ -81,11 +81,11 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532555192747">
-        <mark key="[" line="135" column="52" />
-        <mark key="]" line="135" column="53" />
-        <mark key="^" line="135" column="53" />
-        <mark key="." line="135" column="53" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532555928239">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" timestamp="1532555141728">
         <mark key="'" line="8" column="0" />
@@ -124,11 +124,12 @@
       <file name="/Dummy.txt" timestamp="1532125531624">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/slack.py" timestamp="1532550161483">
-        <mark key="[" line="60" column="67" />
-        <mark key="]" line="60" column="80" />
-        <mark key="." line="60" column="80" />
-        <mark key="^" line="60" column="80" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/slack.py" timestamp="1532555579014">
+        <mark key="'" line="53" column="12" />
+        <mark key="[" line="44" column="12" />
+        <mark key="]" line="44" column="12" />
+        <mark key="." line="44" column="12" />
+        <mark key="^" line="53" column="35" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cloudformation/deploy.yaml" timestamp="1531847399776">
         <mark key="[" line="42" column="0" />
@@ -342,56 +343,57 @@
       <jump line="104" column="8" filename="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" />
       <jump line="9" column="0" filename="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" />
       <jump line="101" column="0" filename="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" />
+      <jump line="53" column="12" filename="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/slack.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text encoding="base64">XDxyYWlzZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBjcmVhdGUoY2xzLCBnbG9iYWxfdGFncywgZ2xvYmFsX3BhcmFtZXRlcnMsIGdsb2JhbF9hY2NvdW50LCBzdGFja19jb25maWcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRhY2htZW50ID0gTm9uZSAgIyBOb3RpZmljYXRpb25BdHRhY2htZW50LmZyb21fbm90aWZpY2F0aW9uKG1lc3NhZ2UpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzKGF0dGFjaG1lbnRzPVthdHRhY2htZW50LmR1bXBfY29uZmlnKCldLCBncm91cGluZ19pZGVudGlmaWVyPWdyb3VwaW5nX2lkZW50aWZpZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzPVtmaWVsZC5kdW1wX2NvbmZpZygpIGZvciBmaWVsZCBpbiBzZWxmLmZpZWxkc10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBmcm9tQXR0YWNobWVudChjbHMsIGF0dGFjaG1lbnQsIGdyb3VwaW5nX2lkZW50aWZpZXI9Tm9uZSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucz1bYWN0aW9uLmR1bXBfY29uZmlnKCkgZm9yIGFjdGlvbiBpbiBzZWxmLmFjdGlvbnNdLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncm91cGluZ19pZGVudGlmaWVyPXNlbGYuY29udGV4dC5nZXRfY29uZmlnKCkuZ2V0X2lkZW50aWZpZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGU9c2VsZi50aXRsZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdHRhY2htZW50cz1bYXR0YWNobWVudF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3I9c2VsZi5jb2xvciwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGljdCgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRlZiBkdW1wX2NvbmZpZyhzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search encoding="base64">XDxyYWlzZVw+</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxyYWlzZVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -408,6 +410,7 @@
         <entry encoding="base64">XDxNaWdyYXRpb25cPg==</entry>
         <entry>resp</entry>
         <entry>logger</entry>
+        <entry encoding="base64">XDxyYWlzZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
