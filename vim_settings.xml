@@ -6,7 +6,19 @@
       <file name="/start_script.py" timestamp="1532124494919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1532531324502">
+      <file name="/Python Console" timestamp="1532124551762">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1532014382043">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/resources/stack.py" timestamp="1531329742419">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1532531923843">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.jql" timestamp="1532121999174">
@@ -21,11 +33,35 @@
         <mark key="^" line="211" column="16" />
         <mark key="." line="211" column="16" />
       </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/tests/deploy.yaml" timestamp="1532143976673">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/tests/controllers/pipline/common.py" timestamp="1531797180672">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/files/deploy.py" timestamp="1531756034041">
         <mark key="[" line="32" column="113" />
         <mark key="]" line="33" column="7" />
         <mark key="^" line="33" column="7" />
         <mark key="." line="33" column="7" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/__init__.py" timestamp="1532532353480">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="148" column="3" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/cloudformation/template.yaml" timestamp="1531533909559">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+        <mark key="." line="5" column="36" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/__init__.py" timestamp="1531930449302">
         <mark key="[" line="3" column="59" />
@@ -39,111 +75,12 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/steps/__init__.py" timestamp="1531330937708">
-        <mark key="[" line="35" column="6" />
-        <mark key="]" line="35" column="5" />
-        <mark key="^" line="35" column="5" />
-        <mark key="." line="35" column="5" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/dockerized-web-service/scripts/run_migration.sh" timestamp="1532126485798">
-        <mark key="[" line="1" column="38" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/slack.py" timestamp="1532531320959">
-        <mark key="'" line="49" column="46" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="44" column="33" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/dockerized-web-service/testwebservice/app.py" timestamp="1532130168907">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="16" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/files/private.py" timestamp="1531756073087">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/stages/__init__.py" timestamp="1531435235098">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-        <mark key="^" line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/dockerized-web-service/.gitignore" timestamp="1532130565140">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="6" column="5" />
-        <mark key="^" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/steps/common.py" timestamp="1531241130366">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="23" column="14" />
-        <mark key="^" line="23" column="14" />
-        <mark key="." line="23" column="14" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/setup.py" timestamp="1532107728028">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="11" />
-        <mark key="^" line="21" column="44" />
-        <mark key="." line="21" column="11" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/steps/dbmigration.py" timestamp="1531238875924">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/dockerized-web-service/cloudformation/dockerized-web-service.yaml" timestamp="1532132306913">
-        <mark key="[" line="66" column="15" />
-        <mark key="]" line="67" column="42" />
-        <mark key="^" line="67" column="42" />
-        <mark key="." line="67" column="42" />
-      </file>
-      <file name="/Python Console" timestamp="1532124551762">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1532014382043">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/resources/stack.py" timestamp="1531329742419">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="36" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/tests/deploy.yaml" timestamp="1532143976673">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="4" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="4" column="4" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/tests/controllers/pipline/common.py" timestamp="1531797180672">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/__init__.py" timestamp="1532122234110">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="22" />
-        <mark key="^" line="149" column="3" />
-        <mark key="." line="206" column="0" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cloudformation/template.yaml" timestamp="1531533909559">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="5" column="36" />
-        <mark key="^" line="5" column="36" />
-        <mark key="." line="5" column="36" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532531316324">
-        <mark key="[" line="84" column="23" />
-        <mark key="]" line="84" column="36" />
-        <mark key="." line="84" column="36" />
-        <mark key="^" line="84" column="36" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532532549391">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="101" column="40" />
+        <mark key="]" line="102" column="18" />
+        <mark key="^" line="102" column="18" />
+        <mark key="." line="102" column="18" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" timestamp="1532144061758">
         <mark key="'" line="8" column="0" />
@@ -152,11 +89,20 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/steps/__init__.py" timestamp="1531330937708">
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="35" column="5" />
+        <mark key="^" line="35" column="5" />
+        <mark key="." line="35" column="5" />
+      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/files/__init__.py" timestamp="1531329530457">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/dockerized-web-service/scripts/run_migration.sh" timestamp="1532126485798">
+        <mark key="[" line="1" column="38" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/deploy.py" timestamp="1532123291528">
         <mark key="[" line="17" column="0" />
@@ -179,6 +125,18 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="41" column="20" />
       </file>
+      <file name="$USER_HOME$/PyCharm/dockerized-web-service/testwebservice/app.py" timestamp="1532130168907">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/files/private.py" timestamp="1531756073087">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/tests/controllers/pipline/templates/cftools.yaml" timestamp="1531844294220">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -197,11 +155,11 @@
         <mark key="." line="28" column="57" />
         <mark key="^" line="28" column="57" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/slack_client.py" timestamp="1532530786635">
-        <mark key="[" line="40" column="89" />
-        <mark key="]" line="29" column="18" />
-        <mark key="^" line="29" column="18" />
-        <mark key="." line="29" column="18" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/slack_client.py" timestamp="1532532279534">
+        <mark key="[" line="42" column="86" />
+        <mark key="]" line="1" column="105" />
+        <mark key="^" line="1" column="105" />
+        <mark key="." line="1" column="105" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/Jenkinsfile" timestamp="1531870243919">
         <mark key="[" line="32" column="20" />
@@ -221,11 +179,29 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/stages/__init__.py" timestamp="1531435235098">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/dockerized-web-service/.gitignore" timestamp="1532130565140">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+      </file>
       <file name="$USER_HOME$/PyCharm/dockerized-web-service/scripts/run_service.sh" timestamp="1532130326396">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="20" />
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/steps/common.py" timestamp="1531241130366">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="23" column="14" />
+        <mark key="^" line="23" column="14" />
+        <mark key="." line="23" column="14" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/docs/build-flow.puml" timestamp="1532116544820">
         <mark key="[" line="7" column="4" />
@@ -233,11 +209,17 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/pipeline/__init__.py" timestamp="1532042272752">
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/pipeline/__init__.py" timestamp="1532532386872">
         <mark key="[" line="12" column="33" />
         <mark key="]" line="13" column="17" />
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/setup.py" timestamp="1532107728028">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="11" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="21" column="11" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/stages/deploystack.py" timestamp="1531432144227">
         <mark key="[" line="117" column="41" />
@@ -262,6 +244,18 @@
         <mark key="]" line="7" column="29" />
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/steps/dbmigration.py" timestamp="1531238875924">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/dockerized-web-service/cloudformation/dockerized-web-service.yaml" timestamp="1532132306913">
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="67" column="42" />
+        <mark key="^" line="67" column="42" />
+        <mark key="." line="67" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -336,13 +330,14 @@
       <jump line="85" column="8" filename="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" />
       <jump line="104" column="8" filename="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" />
       <jump line="9" column="0" filename="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>test-web-service.yaml</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -351,31 +346,31 @@
         <text encoding="base64">ICAgIGRlZiBjcmVhdGUoY2xzLCBnbG9iYWxfdGFncywgZ2xvYmFsX3BhcmFtZXRlcnMsIGdsb2JhbF9hY2NvdW50LCBzdGFja19jb25maWcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gc3RhdHVzX2NvbG9yOiAoU2V2ZXJpdHkpIGBgZ29vZGBgLCBgYHdhcm5pbmdgYCwgYGBkYW5nZXJgYCwgb3IgYW55IGhleCBjb2xvciBjb2RlIChlZy4gYGAjNDM5RkUwYGApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c19jb2xvciA9IHN0YXR1c19jb2xvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0aXRsZSI6ICJTdGF0dXM6IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogc3RhY2tfc3RhdHVzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0aXRsZSI6ICJSZWFzb246IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogcmVhc29uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgImNvbG9yIjogc2VsZi5TVEFUVVNfQ09MT1JTW3N0YWNrX3N0YXR1c10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZmllbGRzIjogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInRpdGxlIjogIlRpbWVzdGFtcDoiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiBzdHIoZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0aXRsZSI6ICJOYW1lOiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6IHN0YWNrX25hbWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInRpdGxlIjogIlZlcnNpb246IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogc3RhY2tfdmVyc2lvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNobWVudHM9Wwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmFjdGl2ZToK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzbGFja2NsaWVudCBpbXBvcnQgU2xhY2tDbGllbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdHRhY2htZW50cz1hdHRhY2htZW50cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
