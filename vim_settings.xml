@@ -75,12 +75,12 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532532549391">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="101" column="40" />
-        <mark key="]" line="102" column="18" />
-        <mark key="^" line="102" column="18" />
-        <mark key="." line="102" column="18" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532533546377">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" timestamp="1532144061758">
         <mark key="'" line="8" column="0" />
