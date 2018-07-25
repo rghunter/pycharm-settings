@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1532124494919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1532540402460">
+      <file name="/Python Console" timestamp="1532543345144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532014382043">
@@ -57,11 +57,11 @@
         <mark key="^" line="33" column="7" />
         <mark key="." line="33" column="7" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/__init__.py" timestamp="1532542428279">
-        <mark key="[" line="109" column="38" />
-        <mark key="]" line="109" column="38" />
-        <mark key="^" line="109" column="84" />
-        <mark key="." line="109" column="38" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/__init__.py" timestamp="1532543341148">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="113" column="17" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cloudformation/template.yaml" timestamp="1531533909559">
         <mark key="[" line="3" column="29" />
@@ -81,18 +81,18 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532542547280">
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532542770407">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
         <mark key="^" line="144" column="35" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" timestamp="1532541120850">
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/dbmigration.py" timestamp="1532542998154">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="92" column="39" />
-        <mark key="]" line="92" column="59" />
-        <mark key="^" line="92" column="59" />
-        <mark key="." line="92" column="59" />
+        <mark key="[" line="113" column="12" />
+        <mark key="]" line="113" column="16" />
+        <mark key="^" line="113" column="16" />
+        <mark key="." line="113" column="61" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/steps/__init__.py" timestamp="1531330937708">
         <mark key="[" line="35" column="6" />
@@ -124,7 +124,7 @@
       <file name="/Dummy.txt" timestamp="1532125531624">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/slack.py" timestamp="1532542687904">
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/slack.py" timestamp="1532543815939">
         <mark key="[" line="74" column="70" />
         <mark key="]" line="74" column="70" />
         <mark key="." line="74" column="70" />
@@ -166,11 +166,11 @@
         <mark key="." line="28" column="57" />
         <mark key="^" line="28" column="57" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/slack_client.py" timestamp="1532540483104">
-        <mark key="[" line="42" column="86" />
-        <mark key="]" line="28" column="28" />
-        <mark key="^" line="28" column="28" />
-        <mark key="." line="28" column="28" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/slack_client.py" timestamp="1532542961985">
+        <mark key="[" line="44" column="71" />
+        <mark key="]" line="44" column="102" />
+        <mark key="^" line="44" column="102" />
+        <mark key="." line="44" column="102" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/Jenkinsfile" timestamp="1531870243919">
         <mark key="[" line="32" column="20" />
@@ -344,11 +344,11 @@
       <jump line="101" column="0" filename="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>attachment</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmeS5ub3RpZnkob3V0cHV0KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>attachment</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -357,31 +357,31 @@
         <text encoding="base64">ICAgIGRlZiBjcmVhdGUoY2xzLCBnbG9iYWxfdGFncywgZ2xvYmFsX3BhcmFtZXRlcnMsIGdsb2JhbF9hY2NvdW50LCBzdGFja19jb25maWcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmeS5ub3RpZnkob3V0cHV0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkcy5hcHBlbmQoKmZpZWxkcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkcy5hcHBlbmQoKmZpZWxkcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlZlcnNpb24iOiBzZWxmLnRlbXBsYXRlX3ZlcnNpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlN0YWNrIE5hbWUiOiBzZWxmLnN0YWNrX25hbWUsCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIGF0dGFjaG1lbnQuYWRkX2ZpZWxkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlZlcnNpb24iOiBzZWxmLnRlbXBsYXRlX3ZlcnNpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNvdXRwdXQuZmllbGRzLnVwZGF0ZShzZWxmLmNvbnRleHQuZ2V0X2NvbmZpZygpLmdldF9kZWZhdWx0X2ZpZWxkcygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlN0YWNrIE5hbWUiOiBzZWxmLnN0YWNrX25hbWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNvdXRwdXQuZ3JvdXBpbmdfaWRlbnRpZmllciA9IHNlbGYuY29udGV4dC5nZXRfY29uZmlnKCkuZ2V0X2lkZW50aWZpZXIoKQo=</text>
+        <text encoding="base64">CSAgICAgICAgICAgIGF0dGFjaG1lbnQuYWRkX2ZpZWxkKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
