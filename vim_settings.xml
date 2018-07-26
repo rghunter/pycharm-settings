@@ -60,7 +60,7 @@
       <file name="$USER_HOME$/PyCharm/dockerized-web-service/scripts/run_migration.sh" timestamp="1532126485798">
         <mark key="[" line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/slack.py" timestamp="1532561973372">
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/slack.py" timestamp="1532620369406">
         <mark key="'" line="53" column="12" />
         <mark key="[" line="75" column="61" />
         <mark key="]" line="75" column="74" />
@@ -139,11 +139,11 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/updated.py" timestamp="1532619274659">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="0" column="68" />
-        <mark key="." line="0" column="68" />
-        <mark key="^" line="0" column="68" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/updated.py" timestamp="1532620771626">
+        <mark key="[" line="185" column="19" />
+        <mark key="]" line="185" column="11" />
+        <mark key="." line="185" column="11" />
+        <mark key="^" line="185" column="11" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/__init__.py" timestamp="1532566055874">
         <mark key="[" line="85" column="51" />
@@ -193,7 +193,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532564909828">
+      <file name="/Dummy.txt" timestamp="1532620723281">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cloudformation/deploy.yaml" timestamp="1532564406309">
@@ -363,11 +363,11 @@
       <jump line="53" column="12" filename="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/slack.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>StatusColor.WARNING,  # Status color g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzPWRpY3Qoc3RhdHVzPSJTb21ldGhpZ24gYmFkIGhhcHBlbmVkIikK</text>
       </register>
       <register name="-" type="4">
-        <text>StatusColor.WARNING,  # Status color g</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlzZVw+</text>
@@ -376,31 +376,31 @@
         <text encoding="base64">ICAgIGRlZiBjcmVhdGUoY2xzLCBnbG9iYWxfdGFncywgZ2xvYmFsX3BhcmFtZXRlcnMsIGdsb2JhbF9hY2NvdW50LCBzdGFja19jb25maWcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzPWRpY3Qoc3RhdHVzPSJTb21ldGhpZ24gYmFkIGhhcHBlbmVkIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzPWRpY3QodGVzdD0iaGVsbG8iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBpbmdfaWRlbnRpZmllcj0ndGVzdC1zdGFjaycsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBpbmdfaWRlbnRpZmllcj0ndGVzdC1zdGFjaycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgIG5vdGlmaWVyLm5vdGlmeSgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gc2xhY2tfY2xpZW50OiAK</text>
+        <text encoding="base64">ICAgIHN0YWNrX3RocmVhZC5zZW5kX25vdGlmaWNhdGlvbigK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucyA9IGxpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgYWN0aW9uczoK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNoYW5uZWwgPSByWydjaGFubmVsJ10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
