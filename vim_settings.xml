@@ -115,7 +115,7 @@
         <mark key="^" line="67" column="42" />
         <mark key="." line="67" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1532629179688">
+      <file name="/Python Console" timestamp="1532629357609">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532623675844">
@@ -206,11 +206,11 @@
         <mark key="^" line="5" column="37" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/console.py" timestamp="1532629297995">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="30" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/console.py" timestamp="1532629354998">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/steps/common.py" timestamp="1531435908156">
         <mark key="[" line="28" column="40" />
@@ -374,11 +374,11 @@
       <jump line="91" column="49" filename="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/cloudformation_controller.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBub3RpZmljYXRpb24K</text>
+      <register name="&quot;" type="4">
+        <text>Message</text>
       </register>
       <register name="-" type="4">
-        <text>field</text>
+        <text>Message</text>
       </register>
       <register name="/" type="4">
         <text>stack_notifier</text>
