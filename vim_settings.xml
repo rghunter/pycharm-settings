@@ -139,6 +139,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/updated.py" timestamp="1532619274659">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="0" column="68" />
+        <mark key="." line="0" column="68" />
+        <mark key="^" line="0" column="68" />
+      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/__init__.py" timestamp="1532566055874">
         <mark key="[" line="85" column="51" />
         <mark key="]" line="85" column="48" />
@@ -151,7 +157,7 @@
         <mark key="^" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532569803687">
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532618762783">
         <mark key="[" line="115" column="36" />
         <mark key="]" line="115" column="36" />
         <mark key="^" line="147" column="27" />
@@ -358,10 +364,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>StatusColor.WARNING,  # Status color g</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>StatusColor.WARNING,  # Status color g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlzZVw+</text>
@@ -370,31 +376,31 @@
         <text encoding="base64">ICAgIGRlZiBjcmVhdGUoY2xzLCBnbG9iYWxfdGFncywgZ2xvYmFsX3BhcmFtZXRlcnMsIGdsb2JhbF9hY2NvdW50LCBzdGFja19jb25maWcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucyA9IGxpc3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgYWN0aW9uczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjZnRvb2xzLmNvbnRyb2xsZXJzLnBpcGVsaW5lIGltcG9ydCBQaXBlbGluZUVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjZnRvb2xzLm5vdGlmaWNhdGlvbnMgaW1wb3J0IFAK</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjZnRvb2xzLm5vdGlmaWNhdGlvbnMgaW1wb3J0IG5vdGlmeQo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gc2xhY2tfY2xpZW50OiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RhdHVzQ29sb3IuRVJST1IgKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gc2VsZi5fX2dldF9ub3RpZmljYXRpb24oCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9ucyA9IGxpc3QoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgYWN0aW9uczoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
