@@ -151,11 +151,11 @@
         <mark key="^" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532565725589">
-        <mark key="[" line="147" column="32" />
-        <mark key="]" line="147" column="27" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532569803687">
+        <mark key="[" line="115" column="36" />
+        <mark key="]" line="115" column="36" />
         <mark key="^" line="147" column="27" />
-        <mark key="." line="147" column="27" />
+        <mark key="." line="115" column="36" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/pipeline/dbmigration.py" timestamp="1532563682406">
         <mark key="[" line="105" column="48" />
