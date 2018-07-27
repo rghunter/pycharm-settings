@@ -80,11 +80,11 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/tests/controllers/pipline/test_dbmigration.py" timestamp="1532678636788">
-        <mark key="[" line="131" column="41" />
-        <mark key="]" line="131" column="26" />
-        <mark key="." line="131" column="26" />
-        <mark key="^" line="131" column="25" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/tests/controllers/pipline/test_dbmigration.py" timestamp="1532706504364">
+        <mark key="[" line="1" column="76" />
+        <mark key="]" line="1" column="76" />
+        <mark key="." line="1" column="76" />
+        <mark key="^" line="4" column="81" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/stages/__init__.py" timestamp="1531435235098">
         <mark key="[" line="3" column="22" />
@@ -384,10 +384,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>stack_notifier</text>
@@ -396,31 +396,31 @@
         <text encoding="base64">ICAgIGRlZiBjcmVhdGUoY2xzLCBnbG9iYWxfdGFncywgZ2xvYmFsX3BhcmFtZXRlcnMsIGdsb2JhbF9hY2NvdW50LCBzdGFja19jb25maWcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjZnRvb2xzLmNvbnRyb2xsZXJzLnBpcGVsaW5lIGltcG9ydCBTdGFnZUNvbnRleHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhzdGVwLnZhbGlkYXRlLAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IHN0YWdlLWRvY2tlci10ZXN0CiAgICB0ZW1wbGF0ZTogZG9ja2VyaXplZC13ZWItc2VydmljZQogICAgdmVyc2lvbjogU1JFLTUxMF9yaHVudGVyX3VwZGF0ZS1zZXJ2aWNlLWV4YW1wbGUKICAgIHJlZ2lvbjogdXMtZWFzdC0xCiAgICBhY2NvdW50OiA4MjM1MTUyMjM2MTAgICMgZGV2IGFjY291bnQK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0tLQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAtIG5hbWU6IHN0YWdlLWRvY2tlci10ZXN0CiAgICB0ZW1wbGF0ZTogZG9ja2VyaXplZC13ZWItc2VydmljZQogICAgdmVyc2lvbjogU1JFLTUxMF9yaHVudGVyX3VwZGF0ZS1zZXJ2aWNlLWV4YW1wbGUKICAgIHJlZ2lvbjogdXMtZWFzdC0xCiAgICBhY2NvdW50OiA4MjM1MTUyMjM2MTAgICMgZGV2IGFjY291bnQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC0tLQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
