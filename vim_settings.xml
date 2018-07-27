@@ -80,6 +80,12 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/tests/controllers/pipline/test_dbmigration.py" timestamp="1532678636788">
+        <mark key="[" line="131" column="41" />
+        <mark key="]" line="131" column="26" />
+        <mark key="." line="131" column="26" />
+        <mark key="^" line="131" column="25" />
+      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/stages/__init__.py" timestamp="1531435235098">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="3" column="21" />
@@ -116,7 +122,7 @@
         <mark key="^" line="67" column="42" />
         <mark key="." line="67" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1532629357609">
+      <file name="/Python Console" timestamp="1532678575530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532623675844">
@@ -134,7 +140,6 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/updated.py" timestamp="1532625141199" />
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/pipeline/__init__.py" timestamp="1532678339287">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="12" />
@@ -238,6 +243,12 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/tests/models/pipeline/test_dbmigration.py" timestamp="1532678561547">
+        <mark key="[" line="61" column="46" />
+        <mark key="]" line="61" column="46" />
+        <mark key="." line="61" column="46" />
+        <mark key="^" line="61" column="46" />
       </file>
       <file name="$USER_HOME$/PyCharm/dockerized-web-service/scripts/run_service.sh" timestamp="1532130326396">
         <mark key="[" line="2" column="19" />
@@ -373,10 +384,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>stack_notifier</text>
@@ -388,28 +399,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IHN0YWdlLWRvY2tlci10ZXN0CiAgICB0ZW1wbGF0ZTogZG9ja2VyaXplZC13ZWItc2VydmljZQogICAgdmVyc2lvbjogU1JFLTUxMF9yaHVudGVyX3VwZGF0ZS1zZXJ2aWNlLWV4YW1wbGUKICAgIHJlZ2lvbjogdXMtZWFzdC0xCiAgICBhY2NvdW50OiA4MjM1MTUyMjM2MTAgICMgZGV2IGFjY291bnQK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0tLQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAtIG5hbWU6IHN0YWdlLWRvY2tlci10ZXN0CiAgICB0ZW1wbGF0ZTogZG9ja2VyaXplZC13ZWItc2VydmljZQogICAgdmVyc2lvbjogU1JFLTUxMF9yaHVudGVyX3VwZGF0ZS1zZXJ2aWNlLWV4YW1wbGUKICAgIHJlZ2lvbjogdXMtZWFzdC0xCiAgICBhY2NvdW50OiA4MjM1MTUyMjM2MTAgICMgZGV2IGFjY291bnQK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC0tLQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFsaWRhdGVfbm90aWZpY2F0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZV9ub3RpZmljYXRpb24gPSBOb3RpZmljYXRpb24oY29sb3I9U3RhdHVzQ29sb3IuR09PRCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
