@@ -55,11 +55,11 @@
       <file name="$USER_HOME$/PyCharm/dockerized-web-service/scripts/run_migration.sh" timestamp="1532126485798">
         <mark key="[" line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/slack.py" timestamp="1532627788199">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="11" column="49" />
-        <mark key="." line="11" column="49" />
-        <mark key="^" line="11" column="49" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/slack.py" timestamp="1532735647659">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
       </file>
       <file name="$USER_HOME$/PyCharm/dockerized-web-service/testwebservice/app.py" timestamp="1532130168907">
         <mark key="[" line="12" column="11" />
@@ -115,7 +115,7 @@
         <mark key="^" line="67" column="42" />
         <mark key="." line="67" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1532678575530">
+      <file name="/Python Console" timestamp="1533072522522">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532623675844">
@@ -145,11 +145,11 @@
         <mark key="^" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/views/manage_stacks.py" timestamp="1532628510551">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
-        <mark key="^" line="3" column="28" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/views/manage_stacks.py" timestamp="1533072029610">
+        <mark key="[" line="20" column="61" />
+        <mark key="]" line="20" column="141" />
+        <mark key="." line="20" column="141" />
+        <mark key="^" line="20" column="141" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532676202644">
         <mark key="[" line="127" column="43" />
@@ -213,11 +213,11 @@
         <mark key="." line="28" column="57" />
         <mark key="^" line="28" column="57" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/slack_client.py" timestamp="1532678309478">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/slack_client.py" timestamp="1533073076906">
+        <mark key="[" line="43" column="84" />
+        <mark key="]" line="44" column="79" />
+        <mark key="^" line="44" column="79" />
+        <mark key="." line="44" column="79" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/Jenkinsfile" timestamp="1531870243919">
         <mark key="[" line="32" column="20" />
@@ -225,7 +225,7 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="32" column="16" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/helpers.py" timestamp="1532119931619">
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/helpers.py" timestamp="1533071966905">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -377,10 +377,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>NotificationAction</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>NotificationAction</text>
       </register>
       <register name="/" type="4">
         <text>stack_notifier</text>
@@ -389,31 +389,31 @@
         <text encoding="base64">ICAgIGRlZiBjcmVhdGUoY2xzLCBnbG9iYWxfdGFncywgZ2xvYmFsX3BhcmFtZXRlcnMsIGdsb2JhbF9hY2NvdW50LCBzdGFja19jb25maWcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjZnRvb2xzLmNvbnRyb2xsZXJzLnBpcGVsaW5lIGltcG9ydCBTdGFnZUNvbnRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNobWVudC5hZGRfYWN0aW9uKE5vdGlmaWNhdGlvbkFjdGlvbigiVmlldyBpbiBBV1MgQ29uc29sZSIsIHN0YWNrX3VybCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhzdGVwLnZhbGlkYXRlLAo=</text>
+        <text encoding="base64">ZnJvbSBjZnRvb2xzLmNvbnRyb2xsZXJzLnBpcGVsaW5lIGltcG9ydCBTdGFnZUNvbnRleHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhzdGVwLnZhbGlkYXRlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IHN0YWdlLWRvY2tlci10ZXN0CiAgICB0ZW1wbGF0ZTogZG9ja2VyaXplZC13ZWItc2VydmljZQogICAgdmVyc2lvbjogU1JFLTUxMF9yaHVudGVyX3VwZGF0ZS1zZXJ2aWNlLWV4YW1wbGUKICAgIHJlZ2lvbjogdXMtZWFzdC0xCiAgICBhY2NvdW50OiA4MjM1MTUyMjM2MTAgICMgZGV2IGFjY291bnQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC0tLQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAtIG5hbWU6IHN0YWdlLWRvY2tlci10ZXN0CiAgICB0ZW1wbGF0ZTogZG9ja2VyaXplZC13ZWItc2VydmljZQogICAgdmVyc2lvbjogU1JFLTUxMF9yaHVudGVyX3VwZGF0ZS1zZXJ2aWNlLWV4YW1wbGUKICAgIHJlZ2lvbjogdXMtZWFzdC0xCiAgICBhY2NvdW50OiA4MjM1MTUyMjM2MTAgICMgZGV2IGFjY291bnQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC0tLQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
