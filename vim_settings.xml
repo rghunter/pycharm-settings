@@ -6,12 +6,6 @@
       <file name="/start_script.py" timestamp="1532124494919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/__init__.py" timestamp="1532540161461">
-        <mark key="[" line="4" column="103" />
-        <mark key="]" line="5" column="52" />
-        <mark key="." line="5" column="52" />
-        <mark key="^" line="5" column="52" />
-      </file>
       <file name="/a.dummy" timestamp="1532559495299">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,12 +139,6 @@
         <mark key="^" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/views/manage_stacks.py" timestamp="1533133462194">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
-        <mark key="^" line="3" column="28" />
-      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/base.py" timestamp="1532676202644">
         <mark key="[" line="127" column="43" />
         <mark key="]" line="127" column="46" />
@@ -175,11 +163,6 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/deploy.py" timestamp="1533133860690">
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
-      </file>
       <file name="$USER_HOME$/PyCharm/dockerized-web-service/Dockerfile" timestamp="1532125555696">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -188,12 +171,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1532620723281">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cloudformation/deploy.yaml" timestamp="1533133051081">
-        <mark key="[" line="34" column="12" />
-        <mark key="]" line="34" column="18" />
-        <mark key="." line="34" column="18" />
-        <mark key="^" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/tests/controllers/pipline/templates/cftools.yaml" timestamp="1531844294220">
         <mark key="[" line="13" column="0" />
@@ -254,11 +231,6 @@
         <mark key="]" line="7" column="3" />
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/pipeline/__init__.py" timestamp="1533134387669">
-        <mark key="]" line="11" column="41" />
-        <mark key="^" line="11" column="41" />
-        <mark key="." line="11" column="41" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/stages/deploystack.py" timestamp="1531432144227">
         <mark key="[" line="117" column="41" />
