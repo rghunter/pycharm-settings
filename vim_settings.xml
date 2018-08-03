@@ -15,6 +15,12 @@
       <file name="$USER_HOME$/PyCharm/cf-tools/tests/models/test_template_file.py" timestamp="1531804245377">
         <mark key="[" line="3" column="39" />
       </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/vars/cfContainer.groovy" timestamp="1533325216899">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/tests/models/test_deploy.py" timestamp="1531782846979">
         <mark key="[" line="211" column="18" />
         <mark key="]" line="211" column="16" />
@@ -184,6 +190,11 @@
         <mark key="." line="21" column="7" />
         <mark key="^" line="21" column="7" />
       </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/vars/cfDeploy.groovy" timestamp="1533325183060">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/steps/common.py" timestamp="1531435908156">
         <mark key="[" line="28" column="40" />
         <mark key="]" line="28" column="57" />
@@ -231,6 +242,12 @@
         <mark key="]" line="7" column="3" />
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/pipeline/__init__.py" timestamp="1533324210701">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="25" column="88" />
+        <mark key="^" line="25" column="88" />
+        <mark key="." line="25" column="88" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/stages/deploystack.py" timestamp="1531432144227">
         <mark key="[" line="117" column="41" />
@@ -347,11 +364,11 @@
       <jump line="0" column="12" filename="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>logging</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>logging</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>stack_notifier</text>
@@ -360,31 +377,31 @@
         <text encoding="base64">ICAgIGRlZiBjcmVhdGUoY2xzLCBnbG9iYWxfdGFncywgZ2xvYmFsX3BhcmFtZXRlcnMsIGdsb2JhbF9hY2NvdW50LCBzdGFja19jb25maWcpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUm9sZUFybj0iYXJuOmF3czppYW06OnthY2NvdW50fTpyb2xlL3tyb2xlX25hbWV9Ii5mb3JtYXQoYWNjb3VudD1hY2NvdW50LCByb2xlX25hbWU9c2VsZi5ST0xFX05BTUUpLCAjIyBFdmVyeSBhY2NvdW50IGhhcyBhIFRNT0NGUGlwZWxpbmUgcm9sZSB0aGF0IGNhbiBiZSB1c2VkIHRvIGRlcGxveQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNobWVudC5hZGRfYWN0aW9uKE5vdGlmaWNhdGlvbkFjdGlvbigiVmlldyBpbiBBV1MgQ29uc29sZSIsIHN0YWNrX3VybCkpCg==</text>
+        <text encoding="base64">ICAgIGxvY2soIiR7Sk9CX05BTUV9Iikgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjZnRvb2xzLmNvbnRyb2xsZXJzLnBpcGVsaW5lIGltcG9ydCBTdGFnZUNvbnRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhzdGVwLnZhbGlkYXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNmVG9vbHMucHVsbCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNmVG9vbHMgPSBkb2NrZXIuaW1hZ2UoJzQ5MDU1MzExNzAxOS5ka3IuZWNyLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tL2NmLXRvb2xzOmxhdGVzdCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtzdHJpbmcoY3JlZGVudGlhbHNJZDogJ3NsYWNrLXRva2VuJywgdmFyaWFibGU6ICdTTEFDS19UT0tFTicpXSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NrKCIke0pPQl9OQU1FfSIpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IHN0YWdlLWRvY2tlci10ZXN0CiAgICB0ZW1wbGF0ZTogZG9ja2VyaXplZC13ZWItc2VydmljZQogICAgdmVyc2lvbjogU1JFLTUxMF9yaHVudGVyX3VwZGF0ZS1zZXJ2aWNlLWV4YW1wbGUKICAgIHJlZ2lvbjogdXMtZWFzdC0xCiAgICBhY2NvdW50OiA4MjM1MTUyMjM2MTAgICMgZGV2IGFjY291bnQK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0tLQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
