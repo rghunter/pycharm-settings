@@ -194,7 +194,7 @@
         <mark key="." line="21" column="7" />
         <mark key="^" line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/vars/cfDeploy.groovy" timestamp="1533327616180">
+      <file name="$USER_HOME$/PyCharm/cf-tools/vars/cfDeploy.groovy" timestamp="1533330410282">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="21" />
@@ -265,6 +265,12 @@
         <mark key="]" line="25" column="88" />
         <mark key="^" line="25" column="88" />
         <mark key="." line="25" column="88" />
+      </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/vars/tmoUtils.groovy" timestamp="1533330473562">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/controllers/stages/deploystack.py" timestamp="1531432144227">
         <mark key="[" line="117" column="41" />
@@ -381,11 +387,11 @@
       <jump line="0" column="12" filename="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiB2ZXJzaW9uID0gZ2V0VmVyc2lvbigpCg==</text>
+      <register name="&quot;" type="4">
+        <text>sh &quot;manage-stacks deploy&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2ZDb250YWluZXIg</text>
+        <text>sh &quot;manage-stacks deploy&quot;</text>
       </register>
       <register name="/" type="4">
         <text>stack_notifier</text>
