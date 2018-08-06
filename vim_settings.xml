@@ -3,18 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1532124494919">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1532559495299">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.jql" timestamp="1532121999174">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/cf-tools/tests/models/test_template_file.py" timestamp="1531804245377">
-        <mark key="[" line="3" column="39" />
-      </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/vars/cfContainer.groovy" timestamp="1533327582033">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -51,9 +39,6 @@
         <mark key="]" line="35" column="5" />
         <mark key="^" line="35" column="5" />
         <mark key="." line="35" column="5" />
-      </file>
-      <file name="$USER_HOME$/PyCharm/dockerized-web-service/scripts/run_migration.sh" timestamp="1532126485798">
-        <mark key="[" line="1" column="38" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/notifications/slack.py" timestamp="1532735647659">
         <mark key="[" line="4" column="5" />
@@ -114,12 +99,6 @@
         <mark key="]" line="67" column="42" />
         <mark key="^" line="67" column="42" />
         <mark key="." line="67" column="42" />
-      </file>
-      <file name="/Python Console" timestamp="1533072522522">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1532623675844">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/resources/stack.py" timestamp="1531329742419">
         <mark key="[" line="1" column="0" />
@@ -188,9 +167,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532620723281">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/PyCharm/cf-tools/README.rst" timestamp="1533590554513" />
       <file name="$USER_HOME$/PyCharm/cf-tools/vars/cfStamp.groovy" timestamp="1533332993136">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="20" />
