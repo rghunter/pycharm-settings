@@ -94,11 +94,11 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/PyCharm/dockerized-web-service/cloudformation/dockerized-web-service.yaml" timestamp="1532132306913">
-        <mark key="[" line="66" column="15" />
-        <mark key="]" line="67" column="42" />
-        <mark key="^" line="67" column="42" />
-        <mark key="." line="67" column="42" />
+      <file name="$USER_HOME$/PyCharm/dockerized-web-service/cloudformation/dockerized-web-service.yaml" timestamp="1533652185494">
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="40" column="43" />
+        <mark key="^" line="40" column="43" />
+        <mark key="." line="40" column="43" />
       </file>
       <file name="$USER_HOME$/PyCharm/cf-tools/cftools/models/resources/stack.py" timestamp="1531329742419">
         <mark key="[" line="1" column="0" />
@@ -380,10 +380,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NotificationAction</text>
+        <text>Ref: &quot;AppName&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>NotificationAction</text>
+        <text>Ref: &quot;AppName&quot;</text>
       </register>
       <register name="/" type="4">
         <text>stack_notifier</text>
@@ -419,7 +419,7 @@
         <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -460,8 +460,8 @@
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
